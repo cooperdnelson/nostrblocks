@@ -1,0 +1,4 @@
+blocks list: a list of the microservices or components found in this guide
+
+1. nostr login module
+2. huggingface best practices
