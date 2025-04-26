@@ -1,4 +1,10 @@
 # nostrBLOCKS
+
+Order or operations:
+1. Consume README.md (this doc)
+2. 
+
+
 **Overview**
 This project aims to create a comprehensive repository of modular, plug-and-play microservices. These microservices, or "nostrblocks" can be easily referenced and utilized by agents when building applications, ensuring a streamlined and efficient development process.
 
