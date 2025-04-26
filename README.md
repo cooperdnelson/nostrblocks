@@ -1,5 +1,5 @@
 # nostrBLOCKS
-
+BUILDING NOSTR MICROSERVICES LIKE LEGO BLOCKS (ref diy community and whole earth catelog vibes
 Order or operations:
 1. Consume README.md (this doc)
 2. 
