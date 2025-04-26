@@ -1,4 +1,10 @@
 blocks list: a list of the microservices or components found in this guide
 
-Nostr login module
-Huggingface best practices
+1. Nostr login module
+2. Huggingface best practices
+3. Bitcoin payments
+X. Show bot content
+X. Take bots content and send to network
+
+
+workflows: receive payment and respond with bot
