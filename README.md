@@ -28,8 +28,8 @@ The protocol achieves decentralization through users publishing content associat
 This allows the network to verify users and achieve account portability on Nostr, as users have to sign all posts using their secret key, preventing any relay from tampering with content without invalidating the signature.
 
 Related Resources
-• Bitcoin Design Guide — Principles for user-centric Bitcoin application design. This project draws heavily from its philosophy of openness, modularity, and user sovereignty.
-  https://github.com/BitcoinDesign/Guide
-• Nostr Protocol — 
-  https://github.com/nostr-protocol/nostr
-- Microservices architecture guide
+Bitcoin Design Guide — Principles for user-centric Bitcoin application design. This project draws heavily from its philosophy of openness, modularity, and user sovereignty.
+- https://github.com/BitcoinDesign/Guide
+Nostr Protocol — 
+- https://github.com/nostr-protocol/nostr
+Microservices architecture guide
